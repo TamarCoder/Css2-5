@@ -415,10 +415,6 @@ main {
 }
 
 
-
-
-
-
 #articleThree {
     width: 1248px;
     height: 758px;
@@ -426,8 +422,172 @@ main {
     background: #FFF;
     margin-top: 64px;
     margin-left: 96px;
+    display: inline-block;
 
 }
 
+#articleThree-heading {
+    width: 1248px;
+    height: 94px;
+
+    margin-top: 32px;
+
+
+
+}
+
+#footerheding {
+    width: 768px;
+    height: 94px;
+
+    margin: 0 auto;
+}
+
+#footerheding h2 {
+    width: 768px;
+    height: 44px;
+    color: #181D27;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+    letter-spacing: -0.8px;
+    display: inline-block;
+}
+
+#footerheding p {
+    color: #535862;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    width: 768px;
+    height: 30px;
+    margin-top: 15px;
+
+    /* 125% */
+}
+
+#articleThree-container {
+    width: 1248px;
+    height: 536px;
+    
+    margin-top: 64px;
+
+}
+
+.footer-content {
+    width: 1184px;
+    height: 536px;
+    margin: 0 auto;
+
+
+
+}
+
+.cards {
+    width: 1184px;
+    height: 536px;
+    
+    display: inline-block;
+
+
+}
+
+.card {
+    height: 256px;
+    width: 580px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    vertical-align: middle;
+    display: inline-block;
+
+}
+
+.card-heading {
+    width: 516px;
+    height: 90px;
+    display: inline-block;
+    color: #181D27;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+
+}
+
+.card-atributes {
+    width: 516px;
+    height: 52px;
+
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.cartd-images {
+    width: 48px;
+    height: 48px;
+
+}
+
+.card-info {
+    width: 310px;
+    height: 52px;
+
+    margin-top: -48px;
+    margin-left: 60px;
+    vertical-align: middle;
+
+}
+
+.info-name {
+    width: 128px;
+    height: 28px;
+    vertical-align: middle;
+
+}
+
+.info-name p {
+    color: #181D27;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+}
+
+.info-name img {
+    display: block;
+    margin-top: -15%;
+    /* სხვა გზა არ მქონდა  % უნდა გამომეყენებინა  */
+    margin-left: 130px;
+
+}
+
+.info-text {
+    color: #535862;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+}
+
+.company-logo {
+    width: 134px;
+    height: 32px;
+    margin-top: -48px;
+    margin-left: 380px;
+}
+
+
+
+
+
+
+.odaeolabs {
+    margin-left: 15px;
+}
+
+.nietzche {
+    margin-top: 15px;
+}
+
+.quartzai {
+    margin-top: 15px;
+    margin-left: 15px;
+}
 
 /* main styles is end  */
